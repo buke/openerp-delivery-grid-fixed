@@ -16,4 +16,4 @@ openerp-delivery-grid-fixed
 安装本模块后即可解决上述问题。
 
 
-此模块已被合并官方源码，https://github.com/odoo/odoo/pull/203。  使用最新源码则无需安装本模块。
+此模块已被合并官方源码，https://github.com/odoo/odoo/pull/203  使用最新源码则无需安装本模块。
